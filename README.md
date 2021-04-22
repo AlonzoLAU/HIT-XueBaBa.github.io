@@ -3,7 +3,7 @@
 ### [泛在计算系统研究中心物端计算系统实验室](http://www.things.ac.cn/)  硕士在读
 
 ### 邮箱：1160300207@stu.hit.edu.cn 
-English website is [here](https://en.liuchong.ml/)  
+English website is [here](https://www.liuchong.ml/en/)  
 ### 研究方向
 物联网、嵌入式操作系统
 ### 教育经历
