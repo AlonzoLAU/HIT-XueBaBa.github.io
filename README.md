@@ -1,14 +1,14 @@
 
-### [中国科学院计算技术研究所](http://www.ict.cas.cn/)  (ICT, CAS)
-### [泛在计算系统研究中心物端计算系统实验室](http://www.things.ac.cn/)  硕士在读
+### [Institute of Computing Technology, Chinese Academy of Sciences](http://english.ict.cas.cn/)  (ICT, CAS)
+### [CUbiCS Things LAB](http://www.things.ac.cn/)  M.S. Student
 
-### 邮箱：1160300207@stu.hit.edu.cn 
-English website is [here](https://www.liuchong.ml/en/)  
-### 研究方向
-机器学习、物联网、嵌入式操作系统
-### 教育经历
-1.  2016-8至2020-6, 哈尔滨工业大学 计算机科学与技术学院, 工学学士
-2.  2021至今, 中国科学院 计算技术研究所, 硕士在读
+### E-mail: liuchong211@mails.ucas.ac.cn
+
+### Research interests
+Machine Learning, Embedded OS
+### Education
+1.  **Bachelor**: School of Computer Science and Technology, Harbin Institute of Technology(**HIT**)
+2.  **M.S. Student**: Institute of Computing Technology, Chinese Academy of Sciences(**ICT, CAS**)
 
 <!-- ### 工作经历 -->
 
